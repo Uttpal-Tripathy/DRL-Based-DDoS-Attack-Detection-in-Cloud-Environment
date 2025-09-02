@@ -2,7 +2,7 @@
 
 Datasets used for Detection: 
 
-CICDDoS2019 : https://www.kaggle.com/datasets/aymenabb/ddos-evaluation-dataset-cic-ddos2019
+CICDDoS2019 : https://www.unb.ca/cic/datasets/ddos-2019.html
 
 Description:
 
@@ -12,7 +12,7 @@ In this dataset, we have different modern reflective DDoS attacks such as PortMa
 
 
 
-UNSW-NB15 : https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15
+UNSW-NB15 : https://research.unsw.edu.au/projects/unsw-nb15-dataset
 
 Description:
 
